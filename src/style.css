@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Baloo';
+    src: url('./BalooBhaina2-Medium.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: 'Baloo';
+    background: url('./icone.png');
+}
